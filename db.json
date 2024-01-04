@@ -1,0 +1,46 @@
+{
+  "student": [
+    {
+      "name": "praveen",
+      "email": "praveen@gmail.com",
+      "phone": "1234787",
+      "id": 17
+    },
+    {
+      "name": "praveen",
+      "email": "praveen@gmail.com",
+      "phone": "1234",
+      "id": 18
+    },
+    {
+      "name": "praveen",
+      "email": "praveen@gmail.com",
+      "phone": "1234",
+      "id": 22
+    },
+    {
+      "name": "jyoti kanwal",
+      "email": "jyoti@gmail.com",
+      "phone": "098789",
+      "id": 23
+    },
+    {
+      "name": "yyyy",
+      "email": "jyoti@gmail.com",
+      "phone": "123",
+      "id": 24
+    },
+    {
+      "name": "preeti bora",
+      "email": "preeti@gmail.com",
+      "phone": "123456789",
+      "id": 25
+    },
+    {
+      "name": "Preeti Bora",
+      "email": "Pbora@gmail.com",
+      "phone": "-98474338433",
+      "id": 26
+    }
+  ]
+}
